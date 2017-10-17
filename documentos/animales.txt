@@ -1,3 +1,4 @@
 perro
 gato
 tortuga
+rata
